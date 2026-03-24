@@ -1,0 +1,18 @@
+{
+  "repoOwner": "gongjieliu",
+  "repoName": "freeWeather",
+  "output": {
+    "type": "table",
+    "maxDepth": 1
+  },
+  "contributors": [
+    {
+      "login": "opencode[bot]",
+      "name": "OpenCode",
+      "profile": "https://opencode.ai",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}
