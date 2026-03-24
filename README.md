@@ -19,23 +19,8 @@ A simple weather app built with Jetpack Compose.
 - QWeather API
 
 ## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gongjieliu"><img src="https://avatars.githubusercontent.com/u/1?v=4?s=100" width="100px;" alt="Gongjie Liu"/><br /><sub><b>Gongjie Liu</b></sub></a><br /><a href="https://github.com/gongjieliu/freeWeather/commits?author=gongjieliu" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://opencode.ai"><img src="https://avatars.githubusercontent.com/u/128857858?v=4?s=100" width="100px;" alt="OpenCode"/><br /><sub><b>OpenCode</b></sub></a><br /><a href="https://github.com/gongjieliu/freeWeather/commits?author=opencode[bot]" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+- Gongjie Liu
+- OpenCode (AI-assisted development)
 
 ## Build
 ```bash
