@@ -36,7 +36,7 @@
 **原因**: QWeather 现在需要使用专属的 API Host，而不是通用的 `api.qweather.com`
 
 **修复**:
-- 将 BASE_URL 改为: `https://nf4up53xqj.re.qweatherapi.com/`
+- 将 BASE_URL 改为专属 API Host
 
 ### 3. API Key 格式错误
 
@@ -45,7 +45,7 @@
 **原因**: 用户输入的 API Key 包含了域名后缀
 
 **修复**:
-- 只使用 Key 本身: `aac31a9b3a4249bc8a18b5da33ca9b40`
+- 只使用 Key 本身
 - 通过 Header 传递: `X-QW-Api-Key`
 
 ### 4. DTO 字段映射错误 (JSON 解析失败)
