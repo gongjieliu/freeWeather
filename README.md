@@ -18,16 +18,6 @@ A simple weather app built with Jetpack Compose.
 - Retrofit (Networking)
 - QWeather API
 
-## Contributor
-- **OpenCode** - AI-assisted development
-
-## Build
-```bash
-./gradlew assembleDebug
-```
-
-APK will be at: `app/build/outputs/apk/debug/app-debug.apk`
-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
@@ -36,6 +26,7 @@ APK will be at: `app/build/outputs/apk/debug/app-debug.apk`
 <table>
   <tbody>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gongjieliu"><img src="https://avatars.githubusercontent.com/u/1?v=4?s=100" width="100px;" alt="Gongjie Liu"/><br /><sub><b>Gongjie Liu</b></sub></a><br /><a href="https://github.com/gongjieliu/freeWeather/commits?author=gongjieliu" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://opencode.ai"><img src="https://avatars.githubusercontent.com/u/128857858?v=4?s=100" width="100px;" alt="OpenCode"/><br /><sub><b>OpenCode</b></sub></a><br /><a href="https://github.com/gongjieliu/freeWeather/commits?author=opencode[bot]" title="Code">💻</a></td>
     </tr>
   </tbody>
@@ -45,3 +36,10 @@ APK will be at: `app/build/outputs/apk/debug/app-debug.apk`
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Build
+```bash
+./gradlew assembleDebug
+```
+
+APK will be at: `app/build/outputs/apk/debug/app-debug.apk`

@@ -7,6 +7,14 @@
   },
   "contributors": [
     {
+      "login": "gongjieliu",
+      "name": "Gongjie Liu",
+      "profile": "https://github.com/gongjieliu",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "opencode[bot]",
       "name": "OpenCode",
       "profile": "https://opencode.ai",
