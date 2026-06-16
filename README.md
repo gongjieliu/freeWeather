@@ -1,4 +1,4 @@
-# Weather Free
+# free Weather 
 
 A simple weather app built with Jetpack Compose.
 
